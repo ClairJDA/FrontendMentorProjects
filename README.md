@@ -20,3 +20,4 @@
 | -------- | ------- |
 | [New Homepage](https://github.com/ClairJDA/NewsHomepage)  | [URL](https://news-homepage-alpha-lake.vercel.app/)    |
 | [Extensions Manager](https://github.com/ClairJDA/ExtensionsManager) | [URL](https://extensions-manager-two.vercel.app/)     |
+| [Interactive Pricing](https://github.com/ClairJDA/InteractivePricing) | [URL](https://interactive-pricing-fawn.vercel.app/) |
