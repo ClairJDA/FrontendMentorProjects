@@ -12,8 +12,6 @@
 | [Result Summary](https://github.com/ClairJDA/ResultSummary) | [URL](https://result-summary-pi-ebon.vercel.app/)     |
 | [Product Preview Card](https://github.com/ClairJDA/ProductPreviewCard) | [URL](https://product-preview-card-amber-nine.vercel.app/)     |
 
-
-
 ### Junior Level
 
 | Project Name | Live Site |
@@ -21,3 +19,9 @@
 | [New Homepage](https://github.com/ClairJDA/NewsHomepage)  | [URL](https://news-homepage-alpha-lake.vercel.app/)    |
 | [Extensions Manager](https://github.com/ClairJDA/ExtensionsManager) | [URL](https://extensions-manager-two.vercel.app/)     |
 | [Interactive Pricing](https://github.com/ClairJDA/InteractivePricing) | [URL](https://interactive-pricing-fawn.vercel.app/) |
+
+### Intermediate Level
+
+| Project Name | Live Site |
+| -------- | ------- |
+| [Room Homepage](https://github.com/ClairJDA/RoomHomepage)  | [URL](https://room-homepage-kappa-gules.vercel.app/)    |
