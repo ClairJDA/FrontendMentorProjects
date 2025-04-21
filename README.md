@@ -25,3 +25,4 @@
 | Project Name | Live Site |
 | -------- | ------- |
 | [Room Homepage](https://github.com/ClairJDA/RoomHomepage)  | [URL](https://room-homepage-kappa-gules.vercel.app/)    |
+| [Space Tour](https://github.com/ClairJDA/SpaceTour)  | [URL](https://space-tour-tan.vercel.app/)    |
