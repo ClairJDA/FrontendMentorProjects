@@ -19,6 +19,7 @@
 | [New Homepage](https://github.com/ClairJDA/NewsHomepage)  | [URL](https://news-homepage-alpha-lake.vercel.app/)    |
 | [Extensions Manager](https://github.com/ClairJDA/ExtensionsManager) | [URL](https://extensions-manager-two.vercel.app/)     |
 | [Interactive Pricing](https://github.com/ClairJDA/InteractivePricing) | [URL](https://interactive-pricing-fawn.vercel.app/) |
+| [Product List With Cart](https://github.com/ClairJDA/ProductListWithCart) | [URL](https://product-list-with-cart-ten-livid.vercel.app/) |
 
 ### Intermediate Level
 
