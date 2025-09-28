@@ -11,6 +11,7 @@
 | [FAQ Accordion](https://github.com/ClairJDA/FaqAccordion)  | [URL](https://faq-accordion-jet-sigma.vercel.app/)    |
 | [Result Summary](https://github.com/ClairJDA/ResultSummary) | [URL](https://result-summary-pi-ebon.vercel.app/)     |
 | [Product Preview Card](https://github.com/ClairJDA/ProductPreviewCard) | [URL](https://product-preview-card-amber-nine.vercel.app/)     |
+| [Order Summary](https://github.com/ClairJDA/OrderSummaryComponent) | [URL](https://order-summary-component-tau-beige.vercel.app/)     |
 
 ### Junior Level
 
